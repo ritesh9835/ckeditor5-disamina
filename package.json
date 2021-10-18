@@ -68,7 +68,7 @@
     "npm": ">=5.7.1"
   },
   "author": "Disamina.in",
-  "license": "GPL-2.0-or-later",
+  "license": "",
   "homepage": "https://github.com/ritesh9835/ckeditor5-disamina",
   "bugs": "https://github.com/ritesh9835/ckeditor5-disamina/issues",
   "repository": {
